@@ -1,6 +1,6 @@
 # Correlation and Regression Analysis
 * Statistical analysis project demonstrating Pearson correlation, simple linear regression, data visualization, and model evaluation .
-# Tools & Technologies:
+# Tools & Technologies
 - Python
 - Jupyter Notebook
 - Pandas
@@ -9,7 +9,7 @@
 - Seaborn
 - Scikit-learn
   
-# Visualizations:
+# Visualizations
 - Scatter plot
 - Correlation heatmap
 - Linear regression line
